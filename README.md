@@ -22,3 +22,5 @@
 
 ##### Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
+<a href="https://app.daily.dev/jurajBrabec"><img align="top" src="https://api.daily.dev/devcards/af608ed5c6d94d2cace8cbc1d491c451.png?r=wtj" width="200" alt="Juraj Brabec's Dev Card"/></a>
